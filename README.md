@@ -1,3 +1,9 @@
+
+
+<img src="1.png" alt="X Icon" width="200px">
+
+
+
 - **Protocol:** OxySound leverages its proprietary near-ultrasonic protocol to enable the transmission of data over audio channels. This innovative protocol allows for data encoding within audio signals, facilitating efficient data transfer through audio.
 
 - **Audio Technology:** OxySound's advanced audio technology is designed to broadcast data in various formats, including tones, near-ultrasonic frequencies, and seamlessly mixing this data with existing audio. This capability adds an extra layer of versatility to accommodate diverse use cases across different industries.
@@ -6,6 +12,8 @@
 
 - **Performance Enhancements:** OxySound offers a range of performance enhancements, allowing users to select different audio tone types, frequency channels, and profiles. These enhancements can be finely tuned to accommodate varying payloads and adapt to specific environmental conditions.
 
+
+<img src="https://web.archive.org/web/20191102043101im_/https://chirp.io/static/Chirp_Icons_All-05-4706424d7d3b7e843dec0d1b3be5f9a4.png" alt="Chirp Icon" width="200px">
 **Core Technology:**
 - **C++ Library Foundation:** OxySound's core technology is built upon a robust C++ library foundation, providing a solid framework for adaptability and compatibility across diverse systems and applications.
 
