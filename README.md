@@ -14,7 +14,8 @@
 
 
 <img src="https://web.archive.org/web/20191102043101im_/https://chirp.io/static/Chirp_Icons_All-05-4706424d7d3b7e843dec0d1b3be5f9a4.png" alt="Chirp Icon" width="200px">
-**Core Technology:**
+
+- **Core Technology:**
 - **C++ Library Foundation:** OxySound's core technology is built upon a robust C++ library foundation, providing a solid framework for adaptability and compatibility across diverse systems and applications.
 
 - **Interoperability:** OxySound's library ensures seamless interoperability across a multitude of platforms and systems, including Android, iOS, Windows, and macOS. This versatility enables developers to integrate OxySound's advanced audio transmission capabilities into their applications, regardless of the target operating system.
