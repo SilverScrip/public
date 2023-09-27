@@ -1,6 +1,6 @@
 
 
-<img src="1.png" alt="X Icon" width="200px">
+<img src="1.png" alt="X Icon" width="600px">
 
 
 
